@@ -504,21 +504,21 @@
             "ST": "*صارف کا سٹیٹس:* "
         },
         "covid": {
-            "COV_DESC": "15 سے زائد ممالک کا روزانہ کا کورونا معلومات کا چارٹ فراہم کرتا ہے.",
-            "NOT": "``"معذرت مجھے ملک کا نام نہیں ملا ! برائے مہربانی ملک کا درست کوڈ درج کریں!```\n\n```ممالک کے کوڈ:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
+            "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
+            "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
         },
         "lyrics": {
-            "LY_DESC": "گانے کے لیرکس تلاش کرتا ہے.",
-            "NEED": "```آپ کو کوئی گانا درج کرنا ہوگا```",
-            "SLY": "دھن اور الفاظ:",
-            "AUT": "گانے کا مالک:",
-            "BUL": "گانا تیار کیا:",
-            "ARAT": "تلاش کردہ گانا :"
+            "LY_DESC": "Finds the lyrics of the song.",
+            "NEED": "```You Must Write Any Song!```",
+            "SLY": "Lyrics:",
+            "AUT": "Song Owner:",
+            "BUL": "Founded Song:",
+            "ARAT": "Searched Song:"
         },
         "github": {
-            "GİTHUB_DESC": "صارف کے یوزر نیم سے اس کا گٹ ہب کا اکاؤنٹ تلاش کرتا ہے.\n⌨️ مثال: .github phaticusthiccy",
-            "REPLY": "```آپ کو کوئی بھی صارف کا نام درج کرنا ہو گا```",
-            "NOT": "```صارف نہیں ملا```",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "REPLY": "```You Need To Type Any Username!```",
+            "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
             "NAME": "Name:",
             "USERNAME": "Username:",
